@@ -4,6 +4,7 @@
 - Intel i5 9400F (9gen Coffee lake)
 - 16Go DDR4 2666Mhz
 - AMD RX560 4Go (Asus Strix)
+- macOS Catalina 10.15
 
 ## Infos
 
@@ -31,6 +32,8 @@ You can change this parameter in the boot arguments (config.plist file).
 - Shell.efi (Z390 Motherboard has issues KALSR slide values)
 
 ## Bios
+
+Version 10F
 
 ### Disable:
 - Fast Boot
