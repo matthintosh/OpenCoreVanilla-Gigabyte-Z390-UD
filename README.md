@@ -46,3 +46,6 @@ You can change this parameter in the boot arguments (config.plist file).
 - Execute Disable Bit
 - EHCI/XHCI Hand-off
 - OS type: Windows 8.1/10 UEFI Mode
+
+## OpenCore version
+0.5.5
