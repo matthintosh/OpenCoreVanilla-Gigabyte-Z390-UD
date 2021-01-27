@@ -51,4 +51,4 @@ Version 10F
 - OS type: Windows 8.1/10 UEFI Mode
 
 ## OpenCore version
-0.5.5
+0.6.5
